@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sahushruti2020@gmail.com**
 
-- 📄 Know about my experiences (file:///C:/Users/lenovo/Downloads/shruti%20resume.pdf)
+- 📄 Know about my experiences ("file:///C:/Users/Shruti%20Sahu/Downloads/My%20Resume%20(4).pdf")
 
 - ⚡ Fun fact **😊😊😊**
 
