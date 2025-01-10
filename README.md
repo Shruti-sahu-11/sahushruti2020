@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikhilkashyap07/NikhilKashyap07/blob/main/Profile%20Software%20Engineer%20LinkedIn%20Banner%202%20-%20Made%20with%20PosterMyWall%20(2).jpg)
+![logo](https://github.com/Shruti-sahu-11/sahushruti2020/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nikhil Kashyap</h1>
 <h3 align="center">A passionate Data Analytics Engineer</h3>
 
