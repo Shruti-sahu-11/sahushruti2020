@@ -1,12 +1,12 @@
 ![logo](https://github.com/Shruti-sahu-11/sahushruti2020/blob/main/Blue%20Gold%20Elegant%20Minimalist%20Digital%20Marketer%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Nikhil Kashyap</h1>
+<h1 align="center">Hi 👋, I'm Shruti Sahu</h1>
 <h3 align="center">A passionate Data Analytics Engineer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilkashyap07&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilkashyap07" /> </p>
 
-- 🌱 I’m currently learning **Machin learning**
+- 🌱 I’m currently learning **Machine learning**
 
 - ⚡ Fun fact **😊😊😊**
 
